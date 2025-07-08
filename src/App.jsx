@@ -6,7 +6,9 @@ function App() {
     <>
       <ul className='card'>
         <li className='card-header'>
-          <div className='title-header'>
+          <div 
+          className='title-header'
+          >
             <h1>Programa de estudio</h1>
             <p>16:00</p>
           </div>
