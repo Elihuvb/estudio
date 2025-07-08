@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import fondo from './media/IMG-20250619-WA0143 (1).png'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         <li className='card-header'>
           <div 
           className='title-header'
+          style={{ backgroundImage: `url(${fondo})` }}
           >
             <h1>Programa de estudio</h1>
             <p>16:00</p>
