@@ -33,7 +33,7 @@ body {
     justify-content: space-between;
     align-items: end;
     border-image: fill 0 linear-gradient(#00000000, #121212);
-    background: url("src\media\IMG-20250619-WA0143 (1).png");
+    background-image: url("src/media/IMG-20250619-WA0143 (1).png");
     background-size: cover;
 }
 
